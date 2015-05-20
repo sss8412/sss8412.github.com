@@ -7,7 +7,7 @@
 *wow this is Italy font*
 
 [LSG github](http://sss8412.github.com)
-![On](http://www.koreatech.ac.kr/kor.do)
+![On](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 >Park inkwon 
 test page.
