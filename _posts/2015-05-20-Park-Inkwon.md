@@ -1,22 +1,38 @@
-#head
-###head
-######head
+#굵은글씨1
+##굵은글씨2
+###굵은글씨3
+####굵은글씨4
 
-**Welcom to my github**
+**굵게쓰기(Bold)**
 
-*wow this is Italy font*
+*기울여쓰기(italic)*
 
-[LSG github](http://sss8412.github.com)
-![On](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
+Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
-1. test1
-2. test2
-3. test3
+> 이것이 인용입니다.
 
-[I'm a inline-style link](http://www.naver.com)
+1. Banana
+2. apple
+3. watermelon
 
-|Tables   | Are   | cool |
-|---------|:-----:|-----:|
-| col 3 is|robot--| good |
+네이버링크(인라인링크) : [Naver](http://www.naver.com)
+다음링크(참조링크) : [Daum] [1].
 
-Inline 'code' has 'back-ticks around' it.
+|Tables    | Are   | cool |
+|:---------|:-----:|-----:|
+| col 3 is |robot--| good |
+| hello    | Park  | bad  |
+
+1. 숫자 리스트 아래
+	- 여기 리스트가 있습니다.
+		* 여기두용!
+	- 저도욨 !
+
+	'#'include '<'iostream'>'
+	using namespace std;
+	
+	void main'('')'
+	'{'
+	 int c;
+	'}'
+
