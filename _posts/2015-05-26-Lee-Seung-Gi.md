@@ -45,12 +45,12 @@
 
 code
 
-`#inclue
+`#inclue`
 
-int main()
+`int main()`
 
-{
-	int a = 3;
-	return a;
-}`
+`{`
+`	int a = 3;`
+`	return a;`
+`}`
 
