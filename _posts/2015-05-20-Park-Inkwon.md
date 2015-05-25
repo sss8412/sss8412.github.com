@@ -21,11 +21,11 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
 [daum][1]
-[1]: http://www.daum.net"daum"
+[1]:http://www.daum.net"daum"
 
 |Tables    | Are   | cool |
-|:---------|:-----:|-----:|
-| col 3 is |robot--| good |
+|---|---|---|
+| col 3 is |robot  | good |
 | hello    | Park  | bad  |
 
 1. 숫자 리스트 아래
@@ -34,7 +34,7 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- 저도욨 !
 * code
 
-	#include <iostream>
+#include <iostream>
 	using namespace std;
 	
 	void main()
