@@ -1,6 +1,9 @@
 #굵은글씨1
+
 ##굵은글씨2
+
 ###굵은글씨3
+
 ####굵은글씨4
 
 **굵게쓰기(Bold)**
@@ -16,7 +19,9 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 3. watermelon
 
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
-다음링크(참조링크) : [Daum] [1].
+
+[daum][1]
+[1]: http://www.daum.net"daum"
 
 |Tables    | Are   | cool |
 |:---------|:-----:|-----:|
@@ -27,12 +32,14 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- 여기 리스트가 있습니다.
 		* 여기두용!
 	- 저도욨 !
+* code
 
-	'#'include '<'iostream'>'
+	#include <iostream>
 	using namespace std;
 	
-	void main'('')'
-	'{'
+	void main()
+	{
 	 int c;
-	'}'
+	}
 
+The end
