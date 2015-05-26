@@ -22,13 +22,9 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
-<<<<<<< HEAD
 참조 링크 : [daum] [text]
 [text]: http://www.daum.net/
-=======
-참조 링크 : [daum] [1]
-[1]: http://www.daum.net/
->>>>>>> e6a3b605ffbf5c2236537cbadb86033b46d058ef
+
 
 |Tables    | Are   | cool |
 |---|---|---|
@@ -40,12 +36,12 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 		* 여기두용!
 	- 저도욨 !
 
-`#inclue`
+`#include`
 
 `int main()`
 
 `{`
-`	int a = 3;`
+`	int a = 4;`
 `	return a;`
 `}`
 
