@@ -25,8 +25,8 @@ _hello_
 
 {% highlight ruby %} 
 
-#include <iostream>
-void main(){
-}
+     #include <iostream>
+      void main(){
+      }
 
 {% endhighlight %}
