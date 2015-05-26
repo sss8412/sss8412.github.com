@@ -31,8 +31,8 @@
 
 인라인링크:[google](http://www.google.com)
 
-참조링크:[google][text]
-[text]: http://www.google.com"text2"
+참조링크:[google] [text]
+[text]: http://www.google.com
 
 ![네이버](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif)
 
