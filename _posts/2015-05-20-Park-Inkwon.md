@@ -37,11 +37,9 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 		* 여기두용!
 	- 저도욨 !
 
-{% highlight ruby %}
 // this is code.
     #include<sdio.h>
     int main(void)
     {
-    printf("hello world");
+    printf("welcom world");
     }
-{% endhighlight %}
