@@ -10,7 +10,8 @@ _hello_
 
 - menu
 + health
-*training
+
++training
 
  1.한글
  2.영어 
@@ -20,7 +21,7 @@ _hello_
 [한기대](http://koreatech.ac.kr)
 [참조링크 한기대][sublink]
 [sublink]: http://koreatech.ac.kr
-![Valid XHTML](http://img.naver.net/static/www/u/2013/0731/nmms_2249405010.gif)
+![Valid XHTML](http://img.naver.net/static/www/u/2013/0731/nmms_2249405010.gif).
 
 {% highlight ruby %} 
 #include <iostream>
