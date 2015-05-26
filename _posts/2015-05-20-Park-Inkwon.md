@@ -13,6 +13,8 @@
 Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 > 이것이 인용입니다.
+> 인용인용~~
+> 인용~~
 
 1. Banana
 2. apple
@@ -20,8 +22,8 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 
 네이버링크(인라인링크) : [Naver](http://www.naver.com)
 
-[daum][1]
-[1]:http://www.daum.net"daum"
+참조 링크 : [daum] [1].
+[1]: http://www.daum.net/
 
 |Tables    | Are   | cool |
 |---|---|---|
@@ -32,14 +34,14 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- 여기 리스트가 있습니다.
 		* 여기두용!
 	- 저도욨 !
-* code
 
-	`#`include `<`iostream`>`
+{% highlight ruby %}
+// This is code.
+	#include <iostream>
 	using namespace std;
-	
-	void main`(``)`
-	`{`
+	void main()
+	{
 	 int c;
-	`}`
+	}
 
-The end
+{% endhighlight %}
