@@ -36,12 +36,12 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- 저도욨 !
 
 {% highlight ruby %}
-// This is code.
-	#include <iostream>
-	using namespace std;
-	void main()
-	{
-	 int c;
-	}
+// This is code
+    #include <iostream>
+    using namespace std;
+    void main()
+    {
+     int c;
+    }
 
 {% endhighlight %}
