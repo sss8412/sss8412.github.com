@@ -34,12 +34,12 @@ Daum image : ![Daum Logo](http://icon.daumcdn.net/w/icon/1312/19/152729032.png)
 	- 저도욨 !
 * code
 
-#include <iostream>
+	`#`include `<`iostream`>`
 	using namespace std;
 	
-	void main()
-	{
+	void main`(``)`
+	`{`
 	 int c;
-	}
+	`}`
 
 The end
