@@ -1,0 +1,5 @@
+{
+  "id"    : "http://dreamand.me{{ sss8412.github.io }}",
+  "title"   : "{{ sss8412.github.io }}",
+  "content" : "{{ post.content | strip_html | strip_newlines | remove:'"'  }}"
+}
