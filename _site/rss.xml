@@ -5,10 +5,39 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://username.github.io</link>
         <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 30 May 2015 17:41:27 +0900</lastBuildDate>
-        <pubDate>Sat, 30 May 2015 17:41:27 +0900</pubDate>
+        <lastBuildDate>Sun, 31 May 2015 01:36:50 +0900</lastBuildDate>
+        <pubDate>Sun, 31 May 2015 01:36:50 +0900</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Google Web Fonts and&lt;br&gt;Font Awesome Icons</title>
+                <description>&lt;p&gt;This template features the ‘Lato’ font, part of the &lt;a href=&quot;http://www.google.com/fonts&quot;&gt;Google Web Font library&lt;/a&gt;, as well as &lt;a href=&quot;http://fontawesome.io&quot;&gt;icons from Font Awesome&lt;/a&gt;.&lt;/p&gt;
+</description>
+                <link>http://username.github.io/services/2014/09/23/services-3</link>
+                <guid>http://username.github.io/services/2014/09/23/services-3</guid>
+                <pubDate>Tue, 23 Sep 2014 00:00:00 +0900</pubDate>
+        </item>
+
+        <item>
+                <title>3D Device Mockups&lt;br&gt;by PSDCovers</title>
+                <description>&lt;p&gt;Turn your 2D designs into high quality, 3D
+  product shots in seconds using free Photoshop actions by &lt;a href=&quot;http://www.psdcovers.com/&quot;&gt;PSDCovers&lt;/a&gt;! Visit
+  their website to download some of their awesome, free photoshop actions!&lt;/p&gt;
+</description>
+                <link>http://username.github.io/services/2014/09/22/services-2</link>
+                <guid>http://username.github.io/services/2014/09/22/services-2</guid>
+                <pubDate>Mon, 22 Sep 2014 00:00:00 +0900</pubDate>
+        </item>
+
+        <item>
+                <title>Death to the Stock Photo:&lt;br&gt;Special Thanks</title>
+                <description>&lt;p&gt;A special thanks to &lt;a href=&quot;http://join.deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo&lt;/a&gt; for providing the photographs that you see in this template.  Visit their website to become a member!&lt;/p&gt;
+</description>
+                <link>http://username.github.io/services/2014/09/21/services-1</link>
+                <guid>http://username.github.io/services/2014/09/21/services-1</guid>
+                <pubDate>Sun, 21 Sep 2014 00:00:00 +0900</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
