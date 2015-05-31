@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Health Challenger!
-tagline: Diet, Body Building, Bio Rhythm
+title: Hello World!
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 

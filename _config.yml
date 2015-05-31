@@ -90,7 +90,7 @@ JB :
     facebook :
       appid : 123
       num_posts: 5
-      width: 640
+      width: 580
       colorscheme: light
     duoshuo :
       short_name : jekyllbootstrap

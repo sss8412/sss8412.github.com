@@ -4,42 +4,13 @@
  <title>Jekyll Bootstrap</title>
  <link href="http://username.github.io/atom.xml" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-05-31T12:35:01+09:00</updated>
+ <updated>2015-05-30T17:41:27+09:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
    <email>blah@email.test</email>
  </author>
 
- 
- <entry>
-   <title>Google Web Fonts and&lt;br&gt;Font Awesome Icons</title>
-   <link href="http://username.github.io/services/2014/09/23/services-3"/>
-   <updated>2014-09-23T00:00:00+09:00</updated>
-   <id>http://username.github.io/services/2014/09/23/services-3</id>
-   <content type="html">&lt;p&gt;This template features the ‘Lato’ font, part of the &lt;a href=&quot;http://www.google.com/fonts&quot;&gt;Google Web Font library&lt;/a&gt;, as well as &lt;a href=&quot;http://fontawesome.io&quot;&gt;icons from Font Awesome&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>3D Device Mockups&lt;br&gt;by PSDCovers</title>
-   <link href="http://username.github.io/services/2014/09/22/services-2"/>
-   <updated>2014-09-22T00:00:00+09:00</updated>
-   <id>http://username.github.io/services/2014/09/22/services-2</id>
-   <content type="html">&lt;p&gt;Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by &lt;a href=&quot;http://www.psdcovers.com/&quot;&gt;PSDCovers&lt;/a&gt;! Visit
-  their website to download some of their awesome, free photoshop actions!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Death to the Stock Photo:&lt;br&gt;Special Thanks</title>
-   <link href="http://username.github.io/services/2014/09/21/services-1"/>
-   <updated>2014-09-21T00:00:00+09:00</updated>
-   <id>http://username.github.io/services/2014/09/21/services-1</id>
-   <content type="html">&lt;p&gt;A special thanks to &lt;a href=&quot;http://join.deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo&lt;/a&gt; for providing the photographs that you see in this template.  Visit their website to become a member!&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
